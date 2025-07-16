@@ -38,8 +38,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=essamaboelmgd&theme=tokyonight&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=essamaboelmgd&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=essamaboelmgd&theme=tokyonight&hide_border=false&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=essamaboelmgd&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=essamaboelmgd&layout=compact&theme=tokyonight)
 
 ---
