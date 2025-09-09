@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,laravel,bootstrap,kali,wireshark,burpsuite,metasploit,nmap,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,laravel,bootstrap,kali,mysql,git,docker" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=essamaboelmgd&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=essamaboelmgd&theme=dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
