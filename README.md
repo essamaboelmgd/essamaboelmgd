@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+👋;I'm+Essam+Abo+Elmgd!;AI+%26+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+👋;I'm+Essam+Abo+Elmgd!;AI+%26+SOC Analyst;Full-Stack Web Developer;Data Analyst" />
 </div>
 
-<h3 align="center">AI Student | SOC Analyst Trainee | Full-Stack Web Developer</h3>
+<h3 align="center">AI Student | SOC Analyst | Full-Stack Web Developer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=essamaboelmgd.essamaboelmgd" alt="Visitor Badge" />
