@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+👋;I'm+Essam+Abo+Elmgd!;AI+%26+SOC Analyst;Full-Stack Web Developer;Data Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hey+There!+👋;I'm+Essam+Abo+Elmgd!;AI+%26+SOC+Analyst;Full-Stack+Web+Developer;Data+Analyst" />
 </div>
 
 <h3 align="center">AI Student | SOC Analyst | Full-Stack Web Developer | Data Analyst</h3>
