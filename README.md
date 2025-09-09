@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=essamaboelmgd&theme=dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=essamaboelmgd&theme=dracula&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
