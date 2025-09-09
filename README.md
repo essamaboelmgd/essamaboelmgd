@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+👋;I'm+Essam+Abo+Elmgd!;AI+Student+%26+SOC+Analyst+%26+Full-Stack+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=2F81F7&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+👋;I'm+Essam+Abo+Elmgd!;AI+Student;SOC+Analyst;Full-Stack+Web+Developer" />
 </h1>
 
 <h3 align="center">AI Student | SOC Analyst Trainee | Full-Stack Web Developer</h3>
